@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209398750917",
+    "project_id": "flutter-firebase-tutoria-6c301",
+    "storage_bucket": "flutter-firebase-tutoria-6c301.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209398750917:android:2848b64b89388b45fcdaac",
+        "android_client_info": {
+          "package_name": "com.example.content_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjan9TSYQrNF0Qqemd6b-s_6iLzM0vvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
